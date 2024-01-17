@@ -7,6 +7,7 @@ This project compares different characteristics of metaheuristic optimization al
 
 However, these energy providers are supposed to be operated on the maximum power point (MPP), and because of factors such as sporadic shading, the panels’ performance should be optimally controlled to maximize power. The MPP tracking performance of various algorithms will be compared in the steady-state and transient stages of power delivery. It is indicated that the analytical methods cannot provide reliable and optimal results, while the state-ofthe-art metaheuristic algorithms successfully discover the MPP. Among seven state-of-the-art algorithms, based on the mean and standard deviation of the transient stage’s results, the particle swarm optimization can propose the most sustainable output for the power oscillations. However, the cultural history and whale optimization algorithms are highly preferred from the tracking time perspective.
 
+![I-V and P-V characteristics for irradiation and temperature changes  (RNG-250P-60 solar module)](https://github.com/toohidsharifi/Maximum-Power-Point-Tracking-With-Metaheuristics/assets/126771405/a05cfd19-07cb-4f4a-bf63-a92485187f27)
 
 
 
